@@ -1,0 +1,3 @@
+docker exec -it TD4_MLOPS_App /bin/bash
+cat /etc/*release
+exit
