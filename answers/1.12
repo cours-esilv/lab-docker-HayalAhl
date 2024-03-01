@@ -1,0 +1,1 @@
+docker run -p 8080:80 -e WS_BACK_URL=http://TD4_MLOPS_App:5000 --name frontend-container -d my-frontend-image:latest
